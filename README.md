@@ -73,11 +73,8 @@ Example output, taken from ESP home in Home Assistant
 <div style="width:640px">
 	<img src="/images/IMG_20240324_131228_758.jpg" height="240px">
 	<img src="/images/IMG_20240324_130715_167.jpg" height="240px">
-	<img src="/images/IMG_20240324_131228_758.jpg" height="240px">
 	<img src="/images/IMG_20240324_131304_146.jpg" height="240px">
 	<img src="/images/IMG_20240324_132217_328.jpg" height="240px">
-	<img src="/images/IMG_20240324_130721_264.jpg" height="240px">
-	<img src="/images/IMG_20240324_131232_936.jpg" height="240px">
 	<img src="/images/IMG_20240324_133421_561.jpg" height="240px">
 	
 </div>
