@@ -2,7 +2,7 @@
 Integrate the Co2 readings from a Techno Line WL 1030 into ESPhome / Home Assistant
 
 
-![test](images/IMG_20240324_130715_167.jpg?raw=true "Test")
+![](images/IMG_20240324_130715_167.jpg?raw=true)
 
 
 
