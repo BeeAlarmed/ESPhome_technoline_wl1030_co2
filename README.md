@@ -3,7 +3,7 @@ Integrate the Co2 readings from a Techno Line WL 1030 into ESPhome / Home Assist
 
 <img src="/images/IMG_20240324_134845_430.jpg" width="280px">
 
-The Co2 sensor used by the Technoline WL 1030 seems to be a *Cubic NDIR CO2 Sensor Module CM1106-C*. This sensor has a PWM output, that can be used by an ESP to measure the Co2 readings. 
+The Co2 sensor used by the Technoline WL 1030 **seems** to be a *Cubic NDIR CO2 Sensor Module CM1106-C*. This sensor has a PWM output, that can be used by an ESP to measure the Co2 readings. 
 
 This solution does not read any other values than the Co2!
 
@@ -13,7 +13,7 @@ This solution does not read any other values than the Co2!
 - Connect *VIN* from the Co2 to ESP VIN/BAT/5V
 - Connect *GND* from the Co2 to ESP GND
 - Connect *PWM* from the Co2 to ESP input pin (I used GPIO14)
-- Solder a Pull-Up of 5k-10k between *VIN* and *PWM* (I'm not 100% this is neede, but the datasheet mentions that you need it while using an oscilloscope)
+- Solder a Pull-Up of 5k-10k between *VIN* and *PWM* (I'm not 100% sure that this is needed, but the datasheet mentions that you need it while using an oscilloscope)
 
 
 ## Esp Home configuration
